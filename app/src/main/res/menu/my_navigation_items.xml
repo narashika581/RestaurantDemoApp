@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+    <item android:id="@+id/action_delivery"
+        android:title="Delivery"
+        android:icon="@drawable/ic_location" />
+    <item android:id="@+id/action_bookmark"
+        android:title="Bookmark"
+        android:icon="@drawable/ic_bookmark" />
+    <item android:id="@+id/action_foodie"
+        android:title="Top Foodie"
+        android:icon="@drawable/ic_topfoodie" />
+    <item android:id="@+id/action_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_customer" />
+</menu>
